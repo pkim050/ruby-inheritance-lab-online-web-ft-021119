@@ -34,5 +34,5 @@ pat.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 puts "Steve just learned this important knowledge: '#{steve.knowledge[1]}' from Avi"
-puts "Steve just learned this important knowledge: '#{pat.knowledge.first}' from Avi"
-puts "Steve just learned this important knowledge: '#{pat.knowledge.[1]}' from Avi"
+puts "Pat just learned this important knowledge: '#{pat.knowledge.first}' from Avi"
+puts "Pat just learned this important knowledge: '#{pat.knowledge.[1]}' from Avi"
